@@ -1,0 +1,15 @@
+number of experiments = 1
+time horizon = 20
+object removal own = 0
+object removal common = 1
+debrisRemThreshold = 1000
+
+
+#Russia removes = 0
+#Russia obeys mitigation rules = 1
+#US removes = 1
+#US obeys mitigation rules = 1
+#China removes = 0
+#China obeys mitigation rules = 1
+#EU removes = 0
+#EU obeys mitigation rules = 1
