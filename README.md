@@ -5,7 +5,9 @@ Space debris removal model based on PyKEP scientific library. Developed within E
 Authors: Richard Klima, Daan Bloembergen, Rahul Savani, Karl Tuyls, Alexander Wittig, Andrei Sapera and Dario Izzo.  
 Corresponding author: Richard Klima - richard.klima(at)liverpool(dot)ac(dot)uk  
 
-This is a significantly improved model based on our previous work (Klima, R., Bloembergen, D., Savani, R., Tuyls, K., Hennes, D., and Izzo, D. (2016a). Space debris removal:963A game theoretic analysis, Games7, 20).
+This is a significantly improved model based on our previous work:
+
+(Klima, R., Bloembergen, D., Savani, R., Tuyls, K., Hennes, D., and Izzo, D. (2016a). Space debris removal:963A game theoretic analysis, Games7, 20).
 
 There is a break-up model (breakup.py) and collision model (cubeAlone.py) which is based on CUBE method for evaluating probability of collision of two objects.  
 
