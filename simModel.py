@@ -955,3 +955,4 @@ def findOptimalSequence(attackerFixed):
     print "env reward both is: ", (allRews[maxRewsEnv_maxRewDef] + allRews_att[maxRewsEnv_maxRewDef])
     print strats[maxRewsEnv_maxRewDef]
     # print "====" *20
+learnStrategyMultiAgent()

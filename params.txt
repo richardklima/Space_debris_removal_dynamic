@@ -1,0 +1,11 @@
+start year = 2017
+time horizon = 100
+time step = 10
+ratio CL/CR = 0.1
+coll avoid succes = 0.9
+discount gamma = 1.0
+alpha = 0.05
+shareIA = 0.6
+total episodes = 1000
+fnApproxStepDebrisLevel = 1000
+
