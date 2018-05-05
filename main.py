@@ -68,7 +68,7 @@ logger.addHandler(ch)
 
 obeyMitigation = [0] * 4
 
-file_inputParameters = "paramInput.txt"
+file_inputParameters = "parameters_simulator.txt"
 fParam = open(file_inputParameters)
 numOfExperiments = int(re.sub("[^0-9]", "", fParam.next()))
 

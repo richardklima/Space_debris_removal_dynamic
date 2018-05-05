@@ -9,7 +9,7 @@ import numpy as np
 import math
 import random
 
-file_inputParameters = "params.txt"
+file_inputParameters = "parameters_surrogate_model.txt"
 fParam = open(file_inputParameters)
 START_YEAR = int(re.sub("[^0-9]", "", fParam.next()))
 timeHorizon = int(re.sub("[^0-9]", "", fParam.next()))

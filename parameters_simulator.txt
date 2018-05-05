@@ -1,5 +1,5 @@
 number of experiments = 1
-time horizon = 20
+time horizon = 100
 object removal own = 0
 object removal common = 1
 debrisRemThreshold = 1000
