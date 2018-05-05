@@ -13,7 +13,9 @@ There is a break-up model (breakup.py) and collision model (cubeAlone.py) which 
 
 You can run the space debris simulator by running the main class main.py. To run this model successfully you will need to install PyKEP scientific library available at https://esa.github.io/pykep/.  
 
-You can run the approximation (surrogate) model by running simModel.py, where you can for example use Q-learning to learn multi-agent strategies.
+You can run the approximation (surrogate) model by running surrogate_model.py, where you can for example use Q-learning to learn multi-agent strategies.
+
+You can set up the parameters in the text files either for the debris simulator or the surrogate model.
 
 
 The initial setting is:  
